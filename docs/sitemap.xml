@@ -7,14 +7,11 @@
 	<loc>http://jasny.github.com/DBQuery-MySQL/docs/namespace-Jasny.html</loc>
 </url>
 <url>
-	<loc>http://jasny.github.com/DBQuery-MySQL/docs/namespace-Jasny.MySQL.html</loc>
+	<loc>http://jasny.github.com/DBQuery-MySQL/docs/namespace-Jasny.DB.html</loc>
+</url>
+<url>
+	<loc>http://jasny.github.com/DBQuery-MySQL/docs/namespace-Jasny.DB.MySQL.html</loc>
 </url>
 
 
-<url>
-	<loc>http://jasny.github.com/DBQuery-MySQL/docs/class-Jasny.MySQL.DBQuery.html</loc>
-</url>
-<url>
-	<loc>http://jasny.github.com/DBQuery-MySQL/docs/class-Jasny.MySQL.DBQuery_Splitter.html</loc>
-</url>
 </urlset>
